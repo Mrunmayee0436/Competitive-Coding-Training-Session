@@ -1,0 +1,6 @@
+# Input from user
+
+val1 = input("Enter first value: ")
+val2 = input("Enter second value: ")
+
+print("Concatenation:", val1 + val2)
