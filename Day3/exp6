@@ -1,0 +1,4 @@
+s = ("Mrunmayee","Prashant","Tadaskar")
+m = '|'.join(s)
+
+print(m)
