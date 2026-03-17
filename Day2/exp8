@@ -1,0 +1,5 @@
+math = 60
+physics = 60
+
+print(id(math))
+print(id(physics))
