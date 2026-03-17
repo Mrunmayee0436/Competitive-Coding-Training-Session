@@ -1,0 +1,8 @@
+list1 = ["Mrunmayee","Shreeya"]
+print(list1 * 2)
+
+list2 = [77,4.19]
+print(list1 + list2)
+
+del list2[1]
+print(list2)
