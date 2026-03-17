@@ -1,0 +1,18 @@
+a = int(input("Enter first value: "))
+b = int(input("Enter second value: "))
+c = int(input("Enter third value: "))
+d = int(input("Enter fourth value: "))
+e = int(input("Enter fifth value: "))
+
+max_val = a
+
+if b > max_val:
+    max_val = b
+if c > max_val:
+    max_val = c
+if d > max_val:
+    max_val = d
+if e > max_val:
+    max_val = e
+
+print("Maximum value is:", max_val)
