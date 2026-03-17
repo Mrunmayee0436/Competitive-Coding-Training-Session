@@ -1,0 +1,7 @@
+mylist = [44,56,33,148]
+
+mylist.sort()
+print(mylist)
+
+mylist.sort(reverse=True)
+print(mylist)
