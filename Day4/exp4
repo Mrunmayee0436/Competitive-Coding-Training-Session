@@ -1,0 +1,6 @@
+print("************************")
+
+for i, j in zip(range(1,6), range(8,0,-1)):
+    if i == 4 or j == 3:
+        continue
+    print(i, j)
