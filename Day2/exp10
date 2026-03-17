@@ -1,0 +1,4 @@
+name = "Mrunmayee"
+
+print("z" in name)
+print("z" not in name)
