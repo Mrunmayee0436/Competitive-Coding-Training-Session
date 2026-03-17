@@ -1,0 +1,9 @@
+mylist = [['Mrunmayee','Ridhima','Apoorva'],['4.19'],[2007,'3001']]
+
+print("Example of multidimensional list:")
+print(mylist)
+print(mylist[0][0])
+print(mylist[0][1])
+print(mylist[1][0])
+print(mylist[2][0])
+print(mylist[2][1])
