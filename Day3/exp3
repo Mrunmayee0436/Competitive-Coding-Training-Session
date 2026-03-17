@@ -1,0 +1,24 @@
+mydict = {
+    101:"Mrunmayee",
+    102:"Prashant",
+    103:"Ridhima",
+    104:"Apoorva",
+    101:"Kanak"
+}
+
+print(mydict)
+
+a = mydict[102]
+print(a)
+
+for x in mydict:
+    print(x)
+
+for x in mydict.values():
+    print(x)
+
+for x, y in mydict.items():
+    print(x, y)
+
+mydict["mobile_no"] = 5486748574
+print(mydict)
