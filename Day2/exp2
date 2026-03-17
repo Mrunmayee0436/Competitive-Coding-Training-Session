@@ -1,0 +1,14 @@
+mylist = ["Mrunmayee","Shreeya","Ridhima","Apoorva","7.77","Om","Tanishka","Sharwari","4.19"]
+
+mylist.append('Rrujula')
+mylist.append('Veera')
+print(mylist)
+
+mylist.insert(1,'Ruhan')
+print(mylist)
+
+mylist.remove("4.19")
+print(mylist)
+
+newlist = mylist.copy()
+print(newlist)
