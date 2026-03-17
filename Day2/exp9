@@ -1,0 +1,6 @@
+mylist = [44,56,33,148]
+
+newlist = mylist
+
+print(id(mylist))
+print(id(newlist))
